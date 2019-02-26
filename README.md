@@ -1,0 +1,2 @@
+# QtLibraty
+Use in Qt 
